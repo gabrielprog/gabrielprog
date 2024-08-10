@@ -1,7 +1,7 @@
 <br clear="both">
-
-###<img src="https://raw.githubusercontent.com/gabrielprog/gabrielprog/output/snake.svg" alt="Snake animation" />
-
+<!---
+<img src="https://raw.githubusercontent.com/gabrielprog/gabrielprog/output/snake.svg" alt="Snake animation" />
+-->
 ###
 
 <div align="left">
